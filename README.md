@@ -23,6 +23,8 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 _Congratulations friend, you've completed this course!_
 
+<img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
+
 Here's a recap of all the tasks you've accomplished in your repository:
 - We created an Actions workflow to line our Markdown files.
 - You caught an issue in a file and fixed the issue before it could make it to :main:.
