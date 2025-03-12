@@ -19,9 +19,9 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Fix the test
+## Finish
 
-_Great job adding the templated workflow! :tada:_
+_Congratulations friend, you've completed this course!_
 
 Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
 
