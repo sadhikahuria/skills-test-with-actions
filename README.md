@@ -23,8 +23,17 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 _Congratulations friend, you've completed this course!_
 
-Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
+Here's a recap of all the tasks you've accomplished in your repository:
+- We created an Actions workflow to line our Markdown files.
+- You caught an issue in a file and fixed the issue before it could make it to :main:.
+- You learned how to use build artifacts for test reports.
+- You enabled branch protections to require the workflow to pass before merging.
 
+## What's next?
+- Get more ideas of what you can do with [awesone actions](https://docs.github.com/actions)
+- We'd love to hear what you though of this course [in our discussion board](https://docs.github.com/actions).
+- [Take another Github Skills course](https://docs.github.com/actions).
+- [Read the Github Skills course](https://docs.github.com/actions).
 When a GitHub Actions workflow is running, you should see some checks in progress, like the screenshot below.
 
 <img alt="checks in progress in a merge box" src=https://user-images.githubusercontent.com/16547949/66080348-ecc5f580-e533-11e9-909e-c213b08790eb.png width=400 />
